@@ -1,0 +1,2 @@
+# TyporalmageHost
+For PicGo!
